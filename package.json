@@ -1,0 +1,15 @@
+{
+  "name": "anubhavfioriapp",
+  "version": "1.0.0",
+  "description": "anubhavtrainings.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "ui5 serve --open index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anubhav",
+  "license": "ISC",
+  "devDependencies": {
+    "@ui5/cli": "^2.14.9"
+  }
+}
